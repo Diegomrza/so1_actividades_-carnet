@@ -1,1 +1,1 @@
-# so1_actividades_-carnet
+# Actividades del curso de Sistemas Operativos 1
