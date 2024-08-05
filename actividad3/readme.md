@@ -150,3 +150,13 @@ ls -ld /home/usuario1/directorio1
 ls -l /home/usuario1/directorio1/archivo2.txt
 # -rwxr-xr-x 1 usuario1 grupo1 24 Aug  4 20:30 /home/usuario1/directorio1/archivo2.txt
 ```
+
+### ¿Por qué es importante gestionar correctamente los usuarios y permisos en un sistema operativo?
+
+Por la seguridad y la integridad de los archivos, de esta forma se evitan los posibles errores y se garantiza la integridad de nuestra información.
+
+### ¿Qué otros comandos o técnicas conocen para gestionar permisos en Linux?
+
+setfacl => Configura listas de control de acceso para archivos y directorios
+getfacl => Muestra las listas de control de acceso de un archivo o directorio.
+usermod => Modifica la configuración de un usuario.
