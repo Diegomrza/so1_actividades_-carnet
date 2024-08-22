@@ -29,9 +29,6 @@ done
 
 ```bash
   sudo nano /etc/systemd/system/saludo.service
-
-
-
 ```
 
 - Paso 2: Agregar el contenido al archivo
