@@ -1,12 +1,14 @@
-# Servicio de Saludo en Linux
+# Actividad 4 - Systemd Unit
+
+## Servicio de Saludo en Linux
 
 Este README explica cómo crear un servicio en Linux que ejecuta un script de Bash en un bucle infinito, imprime un saludo y la fecha actual cada segundo, y cómo configurar el servicio para que inicie automáticamente al arrancar el sistema usando `systemd`.
 
-## Script `saludo.sh`
+### Script `saludo.sh`
 
 Este script es un simple bucle que imprime un saludo junto con la fecha y la hora actuales y luego hace una pausa de un segundo antes de repetir.
 
-### Código del Script
+#### Código del Script
 
 ```bash
 #!/bin/bash
@@ -23,7 +25,7 @@ while true; do
 done
 ```
 
-## Crear el servicio con systemd
+### Crear el servicio con systemd
 
 - Paso 1: Crear el archivo de servicio y agregarle el contenido
 
