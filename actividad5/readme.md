@@ -1,3 +1,5 @@
+# Actividad 5 - Tipos de Kernel
+
 ## TIPOS DE KERNEL Y SUS DIFERENCIAS
 
 Generalmente se dividen en dos tipos, esenciales y no esenciales. Esto quiere decir que algunos tienen un uso mas común que otros. Veamos a continuación estas dos categorías.
